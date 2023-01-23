@@ -1,7 +1,9 @@
+Author: Mario Saraiva
+
+Date: April, 2018
+
 # Brazilian-Politicians
 Exploratory data analysis about Brazilian politicians, in particular, congresspeople, their performance in office and election results.
-
-[Under Construction]
 
 Important Processing steps:
 
